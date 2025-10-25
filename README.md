@@ -1,7 +1,7 @@
 # BibliotecaPOO
 
 Projeto de estudo em Java para disciplina de POO da faculdade.  
-Este projeto foi utilizado em 2 VAs e consiste em um **sistema de gestão de biblioteca**, aplicando:
+Este projeto foi utilizado em 2 VA e consiste em um **sistema de gestão de biblioteca**, aplicando:
 
 - Programação Orientada a Objetos (POO)
 - Camadas de negócio separadas (modelo, negócio, persistência)
