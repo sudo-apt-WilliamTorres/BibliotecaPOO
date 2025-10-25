@@ -1,0 +1,18 @@
+# Pastas de build
+/target/
+build/
+
+# Arquivos compilados
+*.class
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Configurações do NetBeans
+nbproject/private/
+
+# IDEs
+.vscode/
+.idea/
+*.iml

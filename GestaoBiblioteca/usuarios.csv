@@ -1,0 +1,3 @@
+nome,cpf,dataNascimento,logradouro,numero,complemento,bairro,cidade,estado,cep,ddd,numero_tel,ativo,multa,emprestimosAtivos
+Tom,78945612300,1927-01-25,Nascimento Silva,107,casa,ipanema,Rio de Janeiro,Rio de Janeiro, 22421-025,21,999999999,true,0.0,2
+Vinicius,74185296312,1913-10-19,Rua Lopes Quintas,497,casa,Jardim Botanico,Rio de Janeiro,Guanabara,22460010,21,999999999,true,0.0,0

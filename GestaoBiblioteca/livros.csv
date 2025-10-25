@@ -1,0 +1,6 @@
+titulo,autor,isbn,dataPublicacao,setor,disponivel,palavrasChave
+Dom Quixote,Miguel de Cervantes,6580210621,2025-09-11,Clássico,true,ficcao;literatura
+Um Conto de Duas Cidades,Charles Dickens,0141439600,2025-09-11,Literatura Classica,true,revolucao francesa;londres;paris;justica;sacrificio
+O Senhor dos Aneis: A Sociedade do Anel,J. R. R Tolkien,0544003415,2025-09-11,Fantasia,true,terra-media;aventura;magia;amizade;guerra do anel
+O Pequeno Principe,Antoine de Saint-Exupery,8522031443,2025-09-11,Filosofia,true,infancia;amizade;amor;reflexao;viagem
+Harry Potter e a Pedra Filosofal,J. K. Rowling,8532530783,2025-09-11,Fantasia,true,magia ;hogwarts;amizade;aventura;bruxaria

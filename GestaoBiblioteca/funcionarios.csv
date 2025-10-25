@@ -1,0 +1,4 @@
+nome,cpf,dataNascimento,logradouro,numero,complemento,bairro,cidade,estado,cep,ddd,numero_tel,cargo
+Admin,12345678900,1990-01-01,Rua A,123,,Bairro B,Cidade C,Estado D,00000-000,11,99999-9999,Gerente
+Vinicius,45678912300,1913-10-19,Rua Lopes Quintas,114,casa,Gávea,Rio de Janeiro,Rio de Janeiro,22460010,21,988888888,Gerente
+Bruno,123234312345,2005-09-11,Rua 1,34,casa,Centro,Caetes,PE,111111111,87,9999999,Bibliotecario
